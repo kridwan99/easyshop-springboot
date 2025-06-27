@@ -23,7 +23,7 @@ EasyShop is a backend e-commerce application built using **Java** and **Spring B
 
 ### ✅ Frontend - Product Catalog UI
 
-![EasyShop Product Catalog](screenshots//Screenshot-ProductCatalog.png)
+![EasyShop Product Catalog](screenshots./Screenshot-ProductCatalog.png)
 
 ### ✅ API Test Results (Postman)
 
