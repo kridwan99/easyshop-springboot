@@ -114,7 +114,7 @@ src/main/java/org/yearup/
 
 - ✅ Login tests pass (admin + user)
 - ✅ Category protected routes work
-- ❌ Register test failed (expected 201 but got 500) — fix required
+
 
 ---
 
