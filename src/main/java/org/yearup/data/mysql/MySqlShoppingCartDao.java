@@ -22,7 +22,7 @@ public class MySqlShoppingCartDao implements ShoppingCartDao
     }
 
     @Override
-    public ShoppingCart getByUserId(int userId) // ✅ Fixed method name to match interface
+    public ShoppingCart getByUserId(int userId)
     {
         String sql = "SELECT sc.product_id, sc.quantity, p.* " +
                 "FROM shopping_cart sc " +
